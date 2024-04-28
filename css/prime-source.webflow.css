@@ -34,7 +34,6 @@
   font-family: Helveticaneueltstd Md, sans-serif;
   font-size: 25px;
   line-height: 30px;
-  margin-top: 60px;
 }
 
 .section {
@@ -495,7 +494,7 @@
   .container {
     justify-content: center;
     display: block;
-    transform: translate(0, -430px)scale(.71);
+    transform: translate(0, -380px)scale(.71);
   }
 
   .heading-1.hero-heading {
