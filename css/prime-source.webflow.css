@@ -494,7 +494,7 @@
   .container {
     justify-content: center;
     display: block;
-    transform: translate(0, -350px)scale(.71);
+    transform: translate(0, -420px)scale(.71);
   }
 
   .heading-1.hero-heading {
